@@ -1,0 +1,108 @@
+name,amount,unit
+Water,20.0,g
+Energy,38.5,kcal
+Energy,160.75,kJ
+Protein,5.85,g
+Total lipid (fat),1.39,g
+Ash,0.385,g
+Carbohydrate  by difference,0.6275,g
+Fiber  total dietary,0.0,g
+Sugars  total including NLEA,0.0,g
+Calcium  Ca,1.13,mg
+Iron  Fe,1.3,mg
+Magnesium  Mg,5.075,mg
+Phosphorus  P,107.75,mg
+Potassium  K,80.5,mg
+Sodium  Na,16.675,mg
+Zinc  Zn,0.96,mg
+Copper  Cu,3.225,mg
+Manganese  Mn,0.09325,mg
+Selenium  Se,3.125,µg
+Vitamin C  total ascorbic acid,0.0,mg
+Thiamin,0.3425,mg
+Riboflavin,1.19,mg
+Niacin,3.875,mg
+Pantothenic acid,1.5725,mg
+Vitamin B-6,0.0615,mg
+Vitamin B-12,16.675,µg
+Vitamin A  RAE,4350.0,µg
+Retinol,4350.0,µg
+Carotene  beta,0.0,µg
+Carotene  alpha,0.0,µg
+Cryptoxanthin  beta,0.0,µg
+Vitamin A  IU,14525.0,IU
+Lycopene,0.0,µg
+Lutein + zeaxanthin,0.0,µg
+Vitamin E (alpha-tocopherol),0.243,mg
+Vitamin D (D2 + D3)  International Units,0.0,IU
+Vitamin D (D2 + D3),0.0,µg
+Vitamin D3 (cholecalciferol),0.0,µg
+Fatty acids  total saturated,0.4275,g
+SFA 4:0,0.0,g
+SFA 6:0,0.0,g
+SFA 8:0,0.0,g
+SFA 10:0,0.0,g
+SFA 12:0,0.00275,g
+SFA 14:0,0.00525,g
+SFA 16:0,0.13775,g
+SFA 17:0,0.01925,g
+SFA 18:0,0.25,g
+SFA 20:0,0.0005,g
+SFA 22:0,0.008,g
+SFA 24:0,0.003,g
+Fatty acids  total monounsaturated,0.23075,g
+MUFA 14:1,0.00275,g
+MUFA 15:1,0.0,g
+MUFA 16:1,0.01475,g
+MUFA 16:1 c,0.01,g
+MUFA 17:1,0.0,g
+MUFA 18:1,0.2095,g
+MUFA 18:1 c,0.17325,g
+MUFA 20:1,0.0005,g
+MUFA 22:1,0.0005,g
+MUFA 22:1 c,0.0005,g
+MUFA 24:1 c,0.00275,g
+Fatty acids  total polyunsaturated,0.26,g
+PUFA 18:2,0.05775,g
+PUFA 18:2 n-6 c c,0.04325,g
+PUFA 18:2 CLAs,0.0145,g
+PUFA 18:3,0.0415,g
+PUFA 18:3 n-3 c c c (ALA),0.03875,g
+PUFA 18:3 n-6 c c c,0.00275,g
+PUFA 18:4,0.0,g
+PUFA 20:2 n-6 c c,0.0005,g
+PUFA 20:3,0.0045,g
+PUFA 20:3 n-3,0.0005,g
+PUFA 20:3 n-6,0.004,g
+PUFA 20:4,0.035,g
+PUFA 2:4 n-6,0.035,g
+PUFA 2:5 n-3 (EPA),0.0365,g
+PUFA 22:5 n-3 (DPA),0.03825,g
+PUFA 22:6 n-3 (DHA),0.046,g
+Fatty acids  total trans,0.04125,g
+Fatty acids  total trans-monoenoic,0.04125,g
+TFA 16:1 t,0.00475,g
+TFA 18:1 t,0.0365,g
+TFA 18:2 t t,0.0,g
+Fatty acids  total trans-polyenoic,0.0,g
+Cholesterol,109.0,mg
+Tryptophan,0.06475,g
+Threonine,0.28,g
+Isoleucine,0.2625,g
+Leucine,0.4525,g
+Lysine,0.51,g
+Methionine,0.19075,g
+Cystine,0.0765,g
+Phenylalanine,0.23025,g
+Tyrosine,0.2025,g
+Valine,0.2975,g
+Arginine,0.3925,g
+Histidine,0.12375,g
+Alanine,0.29,g
+Glutamic acid,0.8175,g
+Glycine,0.25,g
+Proline,0.1875,g
+Serine,0.1995,g
+Alcohol  ethyl,0.0,g
+Caffeine,0.0,mg
+Theobromine,0.0,mg
